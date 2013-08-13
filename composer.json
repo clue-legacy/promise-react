@@ -1,0 +1,14 @@
+{
+    "name": "clue/promise-react",
+    "description": "Timeout promise",
+    "keywords": ["promise", "timeout", "diagnose"],
+    "homepage": "https://github.com/clue/promise-react",
+    "require": {
+        "react/event-loop": "0.3.*",
+        "react/promise": "~1"
+    },
+    "autoload": {
+        "psr-0": {"Clue": "src/"}
+    }
+}
+    
